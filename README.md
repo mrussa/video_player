@@ -1,10 +1,6 @@
 # Video Player
 
 
-## Table of Contents
-
-- [Introduction](#introduction)
-
 
 ## Introduction
 
